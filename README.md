@@ -10,6 +10,7 @@ Welcome to my GitHub repository! This collection showcases various deep learning
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Overview
 This repository contains Jupyter notebooks that demonstrate deep learning concepts and applications. The focus is on practical implementations using TensorFlow and Keras, covering model training, evaluation, and transfer learning.
@@ -47,3 +48,6 @@ jupyter notebook
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please create a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
